@@ -1,5 +1,5 @@
 ﻿
-# LLM Story Generator
+# Veracity LLM Story Generator
 
 The LLM Story Generator is a web application designed to assist writers by generating story chapters based on user prompts, displaying previous chapters, providing summaries, and detailing character traits. This tool leverages a Large Language Model (LLM) to enhance the writing process, making it more efficient and creative.
 
